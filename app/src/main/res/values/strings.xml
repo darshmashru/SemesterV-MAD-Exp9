@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MAD Experiment 9</string>
-    <string name="mapbox_access_token">pk.eyJ1IjoiZGFyc2htYXNocnVubWltcyIsImEiOiJjbG5vOG95N3MwY29jMnNvNXM3MDB1YWprIn0.66BaqtYYmnlwB6SRkyACOw</string>
+    <string name="mapbox_access_token">ENTER_TOKEN_HERE</string>
 </resources>
